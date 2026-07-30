@@ -9,6 +9,7 @@ public class WelcomeToJava {
         System.out.println("Byeee");
         System.err.println("Hiii everyone");
         System.out.println("my name");
+        System.err.println("name");
 
     }
 }
