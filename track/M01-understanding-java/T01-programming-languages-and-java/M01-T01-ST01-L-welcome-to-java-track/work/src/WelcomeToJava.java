@@ -8,6 +8,7 @@ public class WelcomeToJava {
         System.out.println("Now i am learning how to express that logic using java");
         System.out.println("Byeee");
         System.err.println("Hiii everyone");
+        System.out.println("my name");
 
     }
 }
