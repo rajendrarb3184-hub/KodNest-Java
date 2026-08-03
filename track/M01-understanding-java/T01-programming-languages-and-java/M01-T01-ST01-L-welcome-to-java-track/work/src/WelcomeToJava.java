@@ -10,6 +10,7 @@ public class WelcomeToJava {
         System.err.println("Hiii everyone");
         System.out.println("my name");
         System.err.println("name");
-
+        System.err.println("hero");
+        System.out.println("Role: Software Developer");
     }
 }
