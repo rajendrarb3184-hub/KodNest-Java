@@ -7,5 +7,7 @@ public class Forloop01 {
             System.out.println(i);
 
         }
+        int a = 3;
+        System.err.println("a: " + a);
     }
 }
