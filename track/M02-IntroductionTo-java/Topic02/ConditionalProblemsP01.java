@@ -1,5 +1,5 @@
 
-public class PracticeLoopT01 {
+public class ConditionalProblemsP01 {
 
     public static void main(String[] args) {
         int num = -7;

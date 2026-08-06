@@ -1,5 +1,5 @@
 
-public class Practice01 {
+public class WeeklyPreparationP01 {
 
     public static void main(String[] args) {
         int JavaHours = 2;

@@ -1,5 +1,5 @@
 
-public class Practice03 {
+public class WeeklyProgressReportP03 {
 
     public static void main(String[] args) {
 

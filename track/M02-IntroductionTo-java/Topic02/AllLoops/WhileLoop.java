@@ -1,9 +1,12 @@
 
-public class Loopp {
+public class WhileLoop {
 
     public static void main(String[] args) {
-        for (int i = 1; i <= 37; i++) {
+
+        int i = 1;
+        while (i <= 5) {
             System.err.println(i);
+            i++;
 
         }
     }

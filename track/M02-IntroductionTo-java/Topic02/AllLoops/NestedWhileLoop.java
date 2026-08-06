@@ -1,5 +1,5 @@
 
-public class WhileLoop01 {
+public class NestedWhileLoop {
 
     public static void main(String[] args) {
 
@@ -27,5 +27,4 @@ public class WhileLoop01 {
         }
 
     }
-
 }

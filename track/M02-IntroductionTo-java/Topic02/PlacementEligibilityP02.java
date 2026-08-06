@@ -1,5 +1,5 @@
 
-public class PracticeLoopT02 {
+public class PlacementEligibilityP02 {
 
     public static void main(String[] args) {
 
