@@ -1,4 +1,15 @@
 
+class Employee {
+
+    int id;
+    String name;
+
+    void work() {
+        System.out.println("working");
+    }
+
+}
+
 public class EmpApplication {
 
     public static void main(String[] args) {
