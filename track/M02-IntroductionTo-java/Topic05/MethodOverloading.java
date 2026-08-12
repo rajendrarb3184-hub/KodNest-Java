@@ -24,7 +24,7 @@ public class MethodOverloading {
 
         Addition a1 = new Addition();
 
-        int res = a1.add(23, 32);
+        int res = a1.add(23, 32); // call the using method name multiple time depend on datatype & order
         System.out.println(res);
     }
 }
