@@ -26,7 +26,7 @@ class Student {
     }
 }
 
-public class StudentMethodP06 {
+public class StudentMethodP07 {
 
     public static void main(String[] args) {
 
