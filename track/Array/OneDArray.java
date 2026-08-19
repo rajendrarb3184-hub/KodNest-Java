@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class pgm2 {
+public class OneDArray {
 
     public static void main(String[] args) {
 
